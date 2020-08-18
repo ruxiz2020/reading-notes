@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reading Notes</title>
+  
+  
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-18T19:58:53.963Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ruxi Zhang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Bottle of Lies</title>
+    <link href="http://yoursite.com/2020/08/18/Bottle-of-Lies/"/>
+    <id>http://yoursite.com/2020/08/18/Bottle-of-Lies/</id>
+    <published>2020-08-18T19:58:53.000Z</published>
+    <updated>2020-08-18T19:58:53.963Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CODE The Hidden Language of Computer Hardware and Software</title>
+    <link href="http://yoursite.com/2020/08/18/CODE/"/>
+    <id>http://yoursite.com/2020/08/18/CODE/</id>
+    <published>2020-08-18T17:14:10.000Z</published>
+    <updated>2020-08-18T21:26:08.580Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>A reading notes on <a href="https://www.amazon.com/dp/B00JDMPOK2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">CODE: The Hidden Language of Computer Hardware and Software</a>! Code: The Hidden Language of Computer Hardware and Software (1999) is a book by Charles Petzold that seeks to teach how personal computers work at a hardware and software level. In the preface to the 2000 softcover edition, Petzold wrote that his goal was for readers to understand how computers work at a concrete level that “just might even rival that of electrical engineers and programmers”. <a href="https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software">Code (wikipedia)</a> Petzold begins Code by discussing older technologies like Morse code, Braille, and Boolean logic, which he uses to explain vacuum tubes, transistors, and integrated circuits. He noted that “very smart people” had to go down the “dead ends” of mechanical computers and decimal computing before reaching a scalable solution—namely, the electronic, binary computer with a von Neumann architecture. The book also covers more recent developments, including topics like floating point math, operating systems, and ASCII.</p><p>The book focuses on “pre-networked computers” and does not cover concepts like distributed computing. Specifically, Charles said in an interview that his “main hope” in writing Code was to impart upon his readers a “really good feeling for what a bit is, and how bits are combined to convey information”.</p><p>This is a highly rated book on book rating platforms such as Amazon, Goodreads.</p><h3 id="Morse-Code"><a href="#Morse-Code" class="headerlink" title="Morse Code"></a>Morse Code</h3><p><img src="https://cdn.britannica.com/87/2787-050-69248CA4/American-patterns-dots-International-Morse-Code-letters.jpg" alt="Morse code"></p><p>Although Morse code has absolutely nothing to do with computers, becoming familiar with the nature of codes is an essential preliminary to achieving a deep understanding of the hidden languages and inner structures of computer hardware and software.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;A reading notes on &lt;a href=&quot;ht</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
