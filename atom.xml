@@ -1,34 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lucys Reading Notes</title>
+  <title>Reading Notes</title>
   
   
-  <link href="https://ruxiz2020.github.io/blog-reading/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
   
-  <link href="https://ruxiz2020.github.io/blog-reading/"/>
-  <updated>2020-08-18T03:33:04.941Z</updated>
-  <id>https://ruxiz2020.github.io/blog-reading/</id>
+  <link href="http://yoursite.com/"/>
+  <updated>2020-08-18T19:58:53.963Z</updated>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name>Lucy Z.</name>
+    <name>Ruxi Zhang</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://ruxiz2020.github.io/blog-reading/2020/08/17/hello-world/"/>
-    <id>https://ruxiz2020.github.io/blog-reading/2020/08/17/hello-world/</id>
-    <published>2020-08-18T03:33:04.941Z</published>
-    <updated>2020-08-18T03:33:04.941Z</updated>
+    <title>Bottle of Lies</title>
+    <link href="http://yoursite.com/2020/08/18/Bottle-of-Lies/"/>
+    <id>http://yoursite.com/2020/08/18/Bottle-of-Lies/</id>
+    <published>2020-08-18T19:58:53.000Z</published>
+    <updated>2020-08-18T19:58:53.963Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>CODE The Hidden Language of Computer Hardware and Software</title>
+    <link href="http://yoursite.com/2020/08/18/CODE/"/>
+    <id>http://yoursite.com/2020/08/18/CODE/</id>
+    <published>2020-08-18T17:14:10.000Z</published>
+    <updated>2020-08-18T20:56:28.643Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>A reading notes on <a href="https://www.amazon.com/dp/B00JDMPOK2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">CODE: The Hidden Language of Computer Hardware and Software</a>! Code: The Hidden Language of Computer Hardware and Software (1999) is a book by Charles Petzold that seeks to teach how personal computers work at a hardware and software level. In the preface to the 2000 softcover edition, Petzold wrote that his goal was for readers to understand how computers work at a concrete level that “just might even rival that of electrical engineers and programmers”. <a href="https://en.wikipedia.org/wiki/Code:_The_Hidden_Language_of_Computer_Hardware_and_Software">Code (wikipedia)</a> Petzold begins Code by discussing older technologies like Morse code, Braille, and Boolean logic, which he uses to explain vacuum tubes, transistors, and integrated circuits. He noted that “very smart people” had to go down the “dead ends” of mechanical computers and decimal computing before reaching a scalable solution—namely, the electronic, binary computer with a von Neumann architecture. The book also covers more recent developments, including topics like floating point math, operating systems, and ASCII.</p><p>The book focuses on “pre-networked computers” and does not cover concepts like distributed computing. Specifically, Charles said in an interview that his “main hope” in writing Code was to impart upon his readers a “really good feeling for what a bit is, and how bits are combined to convey information”.</p><p>This is a highly rated book on book rating platforms such as Amazon, Goodreads.</p><h3 id="Morse-Code"><a href="#Morse-Code" class="headerlink" title="Morse Code"></a>Morse Code</h3><p><img src="https://en.wikipedia.org/wiki/Morse_code#/media/File:International_Morse_Code.svg" alt="Morse code"></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;A reading notes on &lt;a href=&quot;ht</summary>
       
     
     
